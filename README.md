@@ -1,1 +1,1 @@
-# Django-Social-Media-website
+# Django-social-media-website
